@@ -16,4 +16,3 @@ GET "/bill{userId}" - will calculate the bill of the given user.
 DAO operation is skipped in this codebase. Just focused on Controller and Service layers.
 
 I consider Mockito Framework to implement the Test cases and coverages.
-
