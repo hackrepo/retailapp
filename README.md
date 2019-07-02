@@ -1,4 +1,4 @@
-This is Pring Boot based retail application. The port number is 8080.
+This is Spring Boot based retail application. The port number is 8080.
 
 The APIs are documented using Swagger 2.
 The Swagger UI : http://localhost:8080/swagger-ui.html
